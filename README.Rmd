@@ -1,0 +1,7 @@
+# README
+
+## Lab 1
+
+```{r}
+R.Version()
+```
